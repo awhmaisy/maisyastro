@@ -17,7 +17,7 @@
 }
 
 body {
-    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+    font-family: 'Helvetica Neue', 'Helvetica', 'sans-serif';
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     line-height: 1.5;
@@ -159,5 +159,4 @@ hr {
 	clip-path: inset(50%);
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
-}
 }
